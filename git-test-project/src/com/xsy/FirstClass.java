@@ -8,4 +8,8 @@ public class FirstClass {
         System.out.println("FirstClass");
         System.out.println("FirstClass");
     }
+
+    public static void show(int i){
+        System.out.println(i*i);
+    }
 }

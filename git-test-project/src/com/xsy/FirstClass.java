@@ -12,4 +12,8 @@ public class FirstClass {
     public static void show(int i){
         System.out.println(i*i);
     }
+
+    public static void fun(String str){
+        System.out.println(str.length());
+    }
 }
